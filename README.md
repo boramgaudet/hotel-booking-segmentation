@@ -58,8 +58,8 @@ Segment-specific strategies such as:
 This was a group project completed during my MSBA program at UC Irvine. I collaborated with my team on the analysis and helped translate the clustering results into business insights and recommendations.
 
 ## Files
-- `5B_Marketing_Analytics_Group_Project.ipynb` - full analysis
-- `/slides/Marketing Analytics Project Presentation.pdf` - presentation deck
+- `marriott_customer_segmentation.ipynb` - full analysis
+- `/slides/marriott_customer_segmentation_slides.pdf` - presentation deck
 
 ## Citation
 Dataset: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand

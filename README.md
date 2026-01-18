@@ -1,8 +1,5 @@
 # Customer Segmentation for Marriott Hotel Bookings
 
-## About
-This was a group project completed during my MSBA program at UC Irvine. I collaborated with my team on the analysis and helped translate the clustering results into business insights and recommendations.
-
 ## Overview
 This project segments Marriott’s online booking customers using clustering to better understand different booking behaviors and support targeted marketing and revenue strategies.
 
@@ -56,6 +53,9 @@ Segment-specific strategies such as:
 - business perks for business travelers
 - mobile-only promo rates for last-minute budget travelers
 - loyalty upgrades for high-value long-stay guests
+
+## About
+This was a group project completed during my MSBA program at UC Irvine. I collaborated with my team on the analysis and helped translate the clustering results into business insights and recommendations.
 
 ## Files
 - `5B_Marketing_Analytics_Group_Project.ipynb` - full analysis

@@ -36,6 +36,17 @@ Key features used:
 - High Value Loyal Vacationers
 - Standard Leisure Guests
 
+## Key Visuals
+
+### Customer Segments (PCA Visualization)
+![PCA Clusters](images/pca_clusters.png)
+
+### Segment Summary
+![Segment Summary](images/segment_summary.png)
+
+### Recommendations
+![Recommendations](images/recommendations.png)
+
 ## Recommendations
 Segment-specific strategies such as:
 - early-bird bundles for planners
